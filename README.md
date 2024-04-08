@@ -15,7 +15,11 @@ A simple and user-friendly weather app that fetches real-time weather informatio
 
 ## Demo
 
-![Weather App Demo](link-to-your-demo-gif-or-screenshot.png)
+![Output Screenshot](/Output%20-1.png)
+![Output Screenshot](/Output%20-2.png)
+![Output Screenshot](/Output%20-3.png)
+![Output Screenshot](/Output%20-4.png)
+
 
 Check out the live demo [here](link-to-your-live-demo).
 
