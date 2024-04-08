@@ -21,7 +21,7 @@ A simple and user-friendly weather app that fetches real-time weather informatio
 ![Output Screenshot](/Output%20-4.png)
 
 
-Check out the live demo [here](link-to-your-live-demo).
+Check out the live demo [here](https://gajendra-ingle.github.io/Weather-App/).
 
 ## Installation
 
